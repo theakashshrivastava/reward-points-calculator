@@ -12,7 +12,7 @@ reward-points-calculator
  
 ## Features
  
-- Accepts a list of customer transactions.
+- Accepts customer_id.
 - Filters transactions from the past 3 months.
 - Calculates reward points using a tiered formula:
   - 2 points for every dollar spent over $100
