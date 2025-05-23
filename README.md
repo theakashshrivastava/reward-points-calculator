@@ -7,38 +7,8 @@ This Spring Boot application calculates reward points for customers based on the
 # Project Structure
 
 reward-points-calculator
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com.rewards
-│   │   │       ├── controller
-│   │   │       │   └── RewardController.java
-│   │   │       ├── exception
-│   │   │       │   ├── GlobalExceptionHandler.java
-│   │   │       │   └── NoTransactionFoundException.java
-│   │   │       ├── model
-│   │   │       │   ├── Customer_Transaction.java
-│   │   │       │   └── RewardResponse.java
-│   │   │       ├── repository
-│   │   │       │   └── TransactionRepository.java
-│   │   │       ├── service
-│   │   │       │   └── RewardService.java
-│   │   │       └── RewardsPointsApiApplication.java
-│   │   └── resources
-│   │       ├── static
-│   │       ├── templates
-│   │       ├── application.properties
-│   │       ├── data.sql
-│   │       └── schema.sql
-│   └── test
-│       └── java
-│           └── com.rewards
-│               ├── controller
-│               │   └── RewardControllerTest.java
-│               ├── service
-│               │   └── RewardServiceTest.java
-│               └── RewardsPointsApiApplicationTests.java
 
+<img width="254" alt="PS" src="https://github.com/user-attachments/assets/eb97d328-7be8-4138-8e3c-0c6e4da1a760" />
  
 ## Features
  
