@@ -20,7 +20,6 @@ reward-points-calculator
 - Aggregates monthly and total reward points per customer.
 - Input validation and global exception handling.
 - Includes unit and integration tests.
-- Dummy data setup for quick testing.
  
 ## Technologies Used
  
@@ -65,8 +64,6 @@ mvn spring-boot:run
 3. Test the API with Postman:
  
 - **POST** `http://localhost:8080/api/rewards/calculate`
-
-- **GET** `http://localhost:8080/api/rewards`
 ---
  
 ## Testing
