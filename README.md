@@ -1,6 +1,6 @@
-# reward-calculator
+# reward-points-calculator
 
-# Reward Calculation API
+# Reward Points Calculation API
  
 This Spring Boot application calculates reward points for customers based on their transaction history. Reward points are computed according to a tiered structure, and results are grouped by customer and by month (limited to the past 3 months).
 
